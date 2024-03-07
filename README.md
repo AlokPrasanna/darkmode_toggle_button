@@ -1,4 +1,4 @@
-# This is DarkMode Toggle button component for Frontend
+# This is DarkMode Toggle button component for Frontend.
 
 ### Functions
 
